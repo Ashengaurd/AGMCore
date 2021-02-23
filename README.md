@@ -1,5 +1,6 @@
 # AGMCore
-This plugin is main dependency for current and future AGM plugins
+This plugin is the main dependency for current and future AGM plugins.  
+You can download the plugin from [here](https://www.spigotmc.org/resources/83245/).
 
 ## API Provided
 * Apache
